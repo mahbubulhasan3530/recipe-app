@@ -5,9 +5,12 @@ This is a three layer architecture base app. where used react as frontend. and p
 
 ## Step-by-Step Deployment Guide
 Prerequisite 
+```
 1. Make a directory for database on the current direcotry and the database directory name will be postgres-data
-2. env change in frontend dircetory. means base on you ip address 
-3. And check docker have or not.
+2. sudo chmod -R 777 postgres-data
+3. env change in frontend dircetory. means base on you ip address 
+4. And check docker have or not.
+```
 ## clone the repository 
 ```
  1.git clone https://github.com/mahbubulhasan3530/recipe-app.git
