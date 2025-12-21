@@ -9,8 +9,8 @@ Prerequisite
 2. env change in frontend dircetory. means base on you ip address 
 3. And check docker have or not.
 ## clone the repository 
-git clone https://github.com/mahbubulhasan3530/recipe-app.git 
-cd recipe-app-with-docker
+1.git clone https://github.com/mahbubulhasan3530/recipe-app.git
+2. cd recipe-app-with-docker
 
 ## Update system and install dependencies
 
