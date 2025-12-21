@@ -10,7 +10,7 @@ Prerequisite
 3. And check docker have or not.
 ## clone the repository 
 1.git clone https://github.com/mahbubulhasan3530/recipe-app.git
-2. cd recipe-app-with-docker
+2.cd recipe-app-with-docker
 
 ## Update system and install dependencies
 
